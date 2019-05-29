@@ -1,0 +1,18 @@
+.search-results-container {
+  margin-top: 20px;
+}
+
+.search-container {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.132);
+  padding: 20px;
+}
+
+.form-control {
+  border-radius: 0%;
+}
+
+.search-filter-container .btn {
+  margin-right: 5px;
+}
+
+/*# sourceMappingURL=searchview.css.map */
